@@ -1,0 +1,2 @@
+# handwritten_numeral_image_classicification
+ Using_MNIST_dataset
